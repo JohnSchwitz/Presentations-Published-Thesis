@@ -25,6 +25,9 @@ Presented to The Albuquerque Astronomical Society on October 23, 2021
 
 What does **General Relativity** have to do with Data Science? Both **Quant Finance** and **Data Science** is pushed forward by Researchers with a Physics Background. My Repository on **Gravitational Wave Detection** (soon to be added) demonstrates **leading edge** analytical approaches such as **Spectral Analysis" to *tease out* the signal from the noise. This also captures any periodic behavior.
 
+https://docs.google.com/presentation/d/1cuqHoZJ5SNwyC6mG8jOFvaORNLepCi4w/edit?usp=sharing&ouid=114656717024562514158&rtpof=true&sd=true
+
+
 #### Presentations, Published Papers, and my thesis
 
 Presentations:
