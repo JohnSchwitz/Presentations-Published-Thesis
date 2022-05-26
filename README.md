@@ -1,4 +1,4 @@
-## Video Presentations, Internet Data Science Class, Published Papers, and Thesis
+## Video Presentations, Published Papers, and Thesis
 ### Video Presentations
 You may need to download and play on your local machine.
 #### Executing an AI / Data Science Project
