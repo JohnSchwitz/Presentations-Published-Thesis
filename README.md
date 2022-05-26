@@ -1,6 +1,6 @@
 ## Video Presentations, Published Papers, and Thesis
 ### Video Presentations
-You may need to download and play on your local machine.
+
 #### Executing an AI / Data Science Project
 PMI Rio Grande Chapter March 17, 2022
 
